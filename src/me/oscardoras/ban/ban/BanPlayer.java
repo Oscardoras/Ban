@@ -1,13 +1,12 @@
-package org.bungeeplugin.ban.ban;
+package me.oscardoras.ban.ban;
 
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 import java.util.UUID;
 
-import org.bungeeplugin.ban.BanPlugin;
-import org.bungeeutils.OfflinePlayer;
-
+import me.oscardoras.ban.BanPlugin;
+import me.oscardoras.bungeeutils.OfflinePlayer;
 import net.md_5.bungee.api.chat.TextComponent;
 import net.md_5.bungee.api.connection.ProxiedPlayer;
 import net.md_5.bungee.config.Configuration;

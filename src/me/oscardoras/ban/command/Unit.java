@@ -1,4 +1,4 @@
-package org.bungeeplugin.ban.command;
+package me.oscardoras.ban.command;
 
 import java.util.Date;
 

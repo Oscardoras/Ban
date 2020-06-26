@@ -1,4 +1,4 @@
 name: Ban
 version: 1.0.0
 author: oscardoras
-main: org.bungeeplugin.ban.BanPlugin
+main: me.oscardoras.ban.BanPlugin

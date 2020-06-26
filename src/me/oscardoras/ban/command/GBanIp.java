@@ -1,14 +1,13 @@
-package org.bungeeplugin.ban.command;
+package me.oscardoras.ban.command;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import org.bungeeplugin.ban.BanPlugin;
-import org.bungeeplugin.ban.ban.AlreadyBannedException;
-import org.bungeeplugin.ban.ban.BanIp;
-import org.bungeeutils.BungeeCommand;
-import org.bungeeutils.io.SendMessage;
-
+import me.oscardoras.ban.BanPlugin;
+import me.oscardoras.ban.ban.AlreadyBannedException;
+import me.oscardoras.ban.ban.BanIp;
+import me.oscardoras.bungeeutils.BungeeCommand;
+import me.oscardoras.bungeeutils.io.SendMessage;
 import net.md_5.bungee.api.ChatColor;
 import net.md_5.bungee.api.CommandSender;
 import net.md_5.bungee.api.ProxyServer;

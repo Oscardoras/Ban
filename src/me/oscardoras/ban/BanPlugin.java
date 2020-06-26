@@ -1,16 +1,15 @@
-package org.bungeeplugin.ban;
+package me.oscardoras.ban;
 
-import org.bungeeplugin.ban.ban.BanIp;
-import org.bungeeplugin.ban.ban.BanPlayer;
-import org.bungeeplugin.ban.command.GBan;
-import org.bungeeplugin.ban.command.GBanIp;
-import org.bungeeplugin.ban.command.GKick;
-import org.bungeeplugin.ban.command.GPardon;
-import org.bungeeplugin.ban.command.GPardonIp;
-import org.bungeeutils.BungeePlugin;
-import org.bungeeutils.OfflinePlayer;
-import org.bungeeutils.io.DataFile;
-
+import me.oscardoras.ban.ban.BanIp;
+import me.oscardoras.ban.ban.BanPlayer;
+import me.oscardoras.ban.command.GBan;
+import me.oscardoras.ban.command.GBanIp;
+import me.oscardoras.ban.command.GKick;
+import me.oscardoras.ban.command.GPardon;
+import me.oscardoras.ban.command.GPardonIp;
+import me.oscardoras.bungeeutils.BungeePlugin;
+import me.oscardoras.bungeeutils.OfflinePlayer;
+import me.oscardoras.bungeeutils.io.DataFile;
 import net.md_5.bungee.api.ProxyServer;
 import net.md_5.bungee.api.chat.TextComponent;
 import net.md_5.bungee.api.connection.PendingConnection;

@@ -1,4 +1,4 @@
-package org.bungeeplugin.ban.ban;
+package me.oscardoras.ban.ban;
 
 public class AlreadyBannedException extends Exception {
 	

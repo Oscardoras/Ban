@@ -1,11 +1,10 @@
-package org.bungeeplugin.ban.ban;
+package me.oscardoras.ban.ban;
 
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-import org.bungeeplugin.ban.BanPlugin;
-
+import me.oscardoras.ban.BanPlugin;
 import net.md_5.bungee.api.ProxyServer;
 import net.md_5.bungee.api.chat.TextComponent;
 import net.md_5.bungee.api.connection.ProxiedPlayer;
